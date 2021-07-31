@@ -1,0 +1,76 @@
+{
+    "basics": {
+        "name": "Vipin Kumar",
+        "label": "Student",
+    "picture": "",
+        "email": "2020kuec2023@iiitkota.ac.in",
+        "phone": "+8505075328",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics & Communication engineering.",
+        "location": {
+            "address": "Rewari",
+            "postalCode": "123401",
+            "city": "Rewari",
+            "countryCode": " India",
+            "region": "Haryana"
+        },
+        "profiles": [
+                {
+                "network": "Github",
+                "username": "vipinkushuk",
+                "url": "https://github.com/vipinkushuk"
+            },
+            {
+                "network": "linkedin",
+                "username": "Vipin Kumar",
+                "url": "https://www.linkedin.com/in/vipin-kumar-5217a1218"
+            },
+            {
+                "network": "Instagram",
+                "username": "vipin.verma_",
+                "url": "https://instagram.com/vipin.verma_?utm_medium=copy_link"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor of Technology",
+            "courses": [
+                "Electronics & Communication engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C/C++"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Reading",
+            "keywords": [
+                "fiction books"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Basketball",
+                "Chess",
+            ]
+        }
+    ],
+    "references": []
+}
